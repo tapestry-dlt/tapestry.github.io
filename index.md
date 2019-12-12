@@ -1,0 +1,9 @@
+---
+layout: default
+title: Tapestry
+permalink: /
+---
+# Tapestry
+<strong>TAPESTRY</strong> is a £1.06m EPSRC funded project starting in 2016, studying the socio-digital design of trusted services, and developing novel blockchain (DLT) and machine learning solutions for identity assurance. This is a collaborative project between the University of Surrey <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing" target="_blank">Centre for Vision Speech and Signal Processing</a>(CVSSP, Lead) and <a href="https://www.surrey.ac.uk/surrey-centre-cyber-security" target="_blank">Centre for Cyber Security</a>, <a href="https://www.dundee.ac.uk/djcad/" target="_blank">Duncan Jordanston College of Art and Design</a>at the University of Dundee, and the <a href="https://www.northumbria.ac.uk/about-us/academic-departments/northumbria-school-of-design/" target="_blank">Department of Media Communication and Design</a>at the University of Northumbria Newcastle.
+
+The aim of TAPESTRY is to investigate, develop and demonstrate new ways to enable people, businesses and services to connect safely online, exploiting the complex &#8220;tapestry&#8221; of multi-modal signals woven by their everyday digital interactions. We will develop a de-centralised registry that stores these trails of users&#8217; digital activity, enabling users to share portions of it at specific granularities to prove they are trustworthy without giving away excessive information that violates their privacy. In this way we will de-risk the Digital Economy, delivering completely new ways of determining or engendering trust online, and enabling users and businesses to make better decisions about who they trust online.
