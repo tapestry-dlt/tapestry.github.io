@@ -1,0 +1,42 @@
+
+div.profile {
+    text-align: justify;
+}
+
+div.profile img {
+    max-width: 100px;
+    margin-right: 10px;
+    float: left;
+    border-radius: 5px;
+}
+
+div.profile h4 {
+    margin-bottom: 0px;
+}
+
+div.profile:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+div.profile p.position{
+    font-size: 18px;
+    margin: 0;
+    font-style: italic;
+    
+}
+
+div.profile p.bio {
+    margin-top: 0;
+    font-size: 16px;
+    }
+
+ul.posts {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.posts p {
+    margin-top: 0;
+}
