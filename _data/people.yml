@@ -1,48 +1,61 @@
 - name: Project Investigators
   people:
-  - image: johncollomosse.jpg
-    name: Dr John Collomosse  
-    position: Professor, CVSSP University of Surrey.
-    bio: 'John is the principal investigator on ARCHANGEL and leads the <a href="http://blockchain.surrey.ac.uk">Surrey Blockchain testbed</a>, comprising over 4 million in UKRI funded research projects exploring the fusion of AI and Distributed Ledger Technology including <a href="https://blockchain.surrey.ac.uk/projects/tapestry.html">TAPESTRY</a>, <a href="https://blockchain.surrey.ac.uk/projects/comehere.html">CoMEHeRe</a> and the European funded <a href="https://www.surrey.ac.uk/news/university-surrey-kicks-eu5million-europe-wide-testbed-blockchain">Blockstart</a> project.'
-
   - image: jobriggs.jpg
     name: Dr Jo Briggs
     position: Senior Research Fellow in Design, Northumbria University
-    bio: 'She uses practice-led design approaches to explore complex and/or emergent digital-socio systems primarily across two interconnecting themes: design for digital engagement; and the design, use and ‘disruptive’ effects of peer-to-peer systems and platforms (e.g. crowdfunding, timebanking). Methodologically she is interested in the theory and practice of design approaches (e.g. Participatory Design, co-design and digital prototyping) and wider creative practices within multidisciplinary and/or cross-sectoral research, including that situated ‘in the wild’. She is a member of the ESRC and AHRC Peer Review Colleges and have reviewed for EPSRC. Shes also reviews for a range of international HCI Design conferences which this year included acting as Associate Chair (Design) for DIS2016 and 2017. She has led two RCUK projects as PI and two as CI and as well as numerous small network and other grants from a range of funders.'
+    bio: 'Jo leads the trusted design workpackage on TAPESTRY, contributing to both the design of workshops exploring trust and of the visualization and UX aspects of the TAPESTRY platform.  Jo's research explores practice-led design approaches to explore complex and/or emergent digital-socio systems primarily across two interconnecting themes: design for digital engagement; and the design, use and ‘disruptive’ effects of peer-to-peer systems and platforms (e.g. crowdfunding, timebanking). Methodologically she is interested in the theory and practice of design approaches (e.g. Participatory Design, co-design and digital prototyping) and wider creative practices within multidisciplinary and/or cross-sectoral research, including that situated ‘in the wild’. She is a member of the ESRC and AHRC Peer Review Colleges and have reviewed for EPSRC. Shes also reviews for a range of international HCI Design conferences which this year included acting as Associate Chair (Design) for DIS2016 and 2017. She has led two RCUK projects as PI and two as CI and as well as numerous small network and other grants from a range of funders.'
 
-  - image: klausmoessner.jpg
-    name: Dr Klaus Moessner
-    position: Professor, Institute for Communication Systems, University of Surrey.
-    bio: "In the past, Klaus was the founding chair of the IEEE DYSPAN Working Group (WG6) on Sensing Interfaces for future and cognitive communication systems. He was involved in the definition and evaluation of cooperation management between autonomous entities, in the UniverSelf project, and was technical manager of the iCore project and has the same role in the H2020 project CPaaS.io; he was project leader of IoT.est, SocIoTal, and at current leads the iKaaS and Speed-5G project. His research interests include cognitive networks, IoT deployments and sensor data based knowledge generation, as well as reconfiguration and resource management; he is senior member of IEEE."
+  - image: johncollomosse.jpg
+    name: Prof. John Collomosse  
+    position: Professor, CVSSP University of Surrey. (PI)
+    bio: 'John is the principal investigator on TAPESTRY and leads the machine learning and distributed ledger technology workpackage of the project.  At Surrey, John is responsible for <a href="http://blockchain.surrey.ac.uk">Surrey Blockchain testbed</a>, comprising over 4 million in UKRI funded research projects exploring the fusion of AI and Distributed Ledger Technology including <a href="https://blockchain.surrey.ac.uk/projects/tapestry.html">TAPESTRY</a>, <a href="https://blockchain.surrey.ac.uk/projects/archangel.html">ARCHANGEL</a>, <a href="https://blockchain.surrey.ac.uk/projects/comehere.html">CoMEHeRe</a> and the European funded <a href="https://www.surrey.ac.uk/news/university-surrey-kicks-eu5million-europe-wide-testbed-blockchain">Blockstart</a> project.'
 
   - image: markmanulis.jpg
     name: Dr Mark Manulis
     position: Deputy Director, Surrey Centre for Cyber Security (SCCS) & Senior Lecturer, Department of Computer Science, University of Surrey
-    bio: "Mark has expertise in the design and analysis of cryptographic protocols for applications requiring authenticity, confidentiality and privacy. He has co-authored over 75 peer-reviewed publications, served on over 50 PCs, (co-)chaired ACNS 2016, PKC 2012 and CANS 2012, and is on the Editorial Board of IET Information Security. In relation to TAPESTRY, Mark brings expertise in the design of provably secure cryptographic algorithms and protocols with applications to security and privacy in social networks. More information can be found on his personal website."
+    bio: "Mark leads the cryptography and cyber-security workpackage on TAPESTRY.  Mark has expertise in the design and analysis of cryptographic protocols for applications requiring authenticity, confidentiality and privacy. He has co-authored over 75 peer-reviewed publications, served on over 50 PCs, (co-)chaired ACNS 2016, PKC 2012 and CANS 2012, and is on the Editorial Board of IET Information Security. In relation to TAPESTRY, Mark brings expertise in the design of provably secure cryptographic algorithms and protocols with applications to security and privacy in social networks. More information can be found on his personal website."
+
+  - image: klausmoessner.jpg
+    name: Prof. Klaus Moessner
+    position: Professor, Institute for Communication Systems, University of Surrey.
+    bio: "Klaus contributes to TAPESTRY on digital interactions with IoT devices. Klaus was the founding chair of the IEEE DYSPAN Working Group (WG6) on Sensing Interfaces for future and cognitive communication systems. He was involved in the definition and evaluation of cooperation management between autonomous entities, in the UniverSelf project, and was technical manager of the iCore project and has the same role in the H2020 project CPaaS.io; he was project leader of IoT.est, SocIoTal, and at current leads the iKaaS and Speed-5G project. His research interests include cognitive networks, IoT deployments and sensor data based knowledge generation, as well as reconfiguration and resource management."
 
   - image: wendymoncur.jpg
-    name: Dr Wendy Moncur
+    name: Prof. Wendy Moncur
     position: Professor & Interdisciplinary Chair of Digital Living, University of Dundee
-    bio: "Working across Duncan of Jordanstone College of Art & Design and the School of Nursing and Health Sciences. She is also a Visiting Scholar at the University of Technology Sydney, Australia, an Associate of the Centre for Death and Society, University of Bath, and a member of the EPSRC Peer Review College. She leads the Living Digital group, which carries out research that focuses on the design of technology to support being human in a Digital Age, grounded in Human-Computer Interaction."
+    bio: "Wendy is responsible for the social science aspects of TAPESTRY exploring how trust is engendered on and offline.  Wendy is based within the Duncan of Jordanstone College of Art & Design and the School of Nursing and Health Sciences. She leads the Living Digital group, which carries out research that focuses on the design of technology to support being human in a Digital Age, grounded in Human-Computer Interaction."
 
-- name: Researchers
+- name: Current Researchers
   people:
-  - image: arthimanohar.jpg
-    name: Dr Arthi Manohar 
-    position: Design Research Fellow, Northumbria University
-    bio: "Before joining Northumbria, she worked at the Glasgow School of Art where she explored co-design in community engagement and creative evaluation approaches through research and project-based learning. Prior to GSA, she worked at the Mixed Reality Lab within the University of Nottingham. Her Doctorate was a part of an EPSRC Digital Economy project ‘Tales of Things and Electronic Memories’ (TOTeM). Her research explored the digital impact of technologies on communities using Participatory Research Methods and Story Cultures. She holds a Master’s degree in Architecture and Digital Media from University of Westminster, London. Her research interests are particularly concerned with the role of human values to change the way we engage with communities to help us be more creative, responsive and reflective by investigating the relationship between the social design and technology."
-
-  - image: noname.png
-    name: Dr Helen Jones
+  - image: noname.jpg
+    name: Dr Frances Ryan 
     position: Postdoctoral Research Fellow, University of Dundee
-    bio: 'Her background is in cyberpsychology, and she previously completed her PhD at Lancaster University. This research examined psychological factors influencing susceptibility to email fraud, including cognitive (e.g. inhibition, cognitive reflection) and situational (e.g. email relevance, time pressure) factors that affect this. She has also worked previously at the University of Central Lancashire, researching the role of behavioural and physiological signals in the detection of insider threat. Helen’s research on the TAPESTRY project focuses on understanding how users currently make trust decisions online. This incorporates social psychological perspectives on persuasion, social influence, and social identity to understand how trusting relationships develop between strangers online. This will inform the development of the TAPESTRY tool, providing insight into how trust decisions might be manipulated online and how user-centric security solutions can be designed to encourage more secure connectivity.'
+    bio: "Frances joined TAPESTRY in mid-2019 and is exploring psychological factors in trust within the context of the healthcare forum and online dating use-cases of the TAPESTRY project."
     
-  - image: yifanyang.jpg
-    name: Dr Yifan Yang
-    position: Research Fellow, CVSSP, University of Surrey
-    bio: "Within the TAPESTRY project, he works on temporal pattern analysis using machine learning with multi-modal signals from social network. Prior to that, he received his Ph.D. Degree from Télécom ParisTech (France) in October 2016, supervised by Prof. Isabelle Bloch and Prof. Jamal Atif.  His research interests include but not limited to machine learning, image understanding and knowledge representation and reasoning."
+  - image: noname.jpg
+    name: Dr Jie (Shasha) Deng
+    position: Postdoctoral Research Fellow, University of Dundee
+    bio: "Shasha contributes quantiative analysis of the social science studies into trust undertaken at Dundee for the TAPESTRY project."
 
   - image: danielcooper.png
     name: Daniel Cooper  
     position: Research Software Developer, CVSSP, University of Surrey
     bio: 'Daniel is a Research Software Developer at the Surrey Centre for Vision Speech and Signal Processing (CVSSP). Working across the DLT projects, he manages the DLT testbed infrastructure, as well as the design and development of software, integrating AI techpngnologies with DLT. As a full-stack developer he has experience developing and managing applications across varying technology stacks.'
+
+- name: Researcher Alumni
+  people:
+  - image: arthimanohar.jpg
+    name: Dr Arthi Manohar 
+    position: Lecturer, Brunel University
+    bio: "Arthi worked on TAPESTRY for approximately two years as a design research fellow at Northumbria University. She has since moved to a full lectureship at Brunel.  Before joining Northumbria, she worked at the Glasgow School of Art where she explored co-design in community engagement and creative evaluation approaches through research and project-based learning. Prior to GSA, she worked at the Mixed Reality Lab within the University of Nottingham. Her Doctorate was a part of an EPSRC Digital Economy project ‘Tales of Things and Electronic Memories’ (TOTeM). Her research explored the digital impact of technologies on communities using Participatory Research Methods and Story Cultures. She holds a Master’s degree in Architecture and Digital Media from University of Westminster, London. Her research interests are particularly concerned with the role of human values to change the way we engage with communities to help us be more creative, responsive and reflective by investigating the relationship between the social design and technology."
+
+  - image: noname.png
+    name: Dr Helen Jones
+    position: Lecturer, UCLAN
+    bio: 'Helen worked on TAPESTRY for approximately eighteen months as a postdoctoral research fellow under Moncur at the University of Dundee.  She has since taken up a full lectureship at UCLAN.  Helen's background is in cyberpsychology, and she previously completed her PhD at Lancaster University. This research examined psychological factors influencing susceptibility to email fraud, including cognitive (e.g. inhibition, cognitive reflection) and situational (e.g. email relevance, time pressure) factors that affect this. She has also worked previously at the University of Central Lancashire, researching the role of behavioural and physiological signals in the detection of insider threat. Helen’s research on the TAPESTRY project focuses on understanding how users currently make trust decisions online. This incorporates social psychological perspectives on persuasion, social influence, and social identity to understand how trusting relationships develop between strangers online. This will inform the development of the TAPESTRY tool, providing insight into how trust decisions might be manipulated online and how user-centric security solutions can be designed to encourage more secure connectivity.'
+    
+  - image: yifanyang.jpg
+    name: Dr Yifan Yang
+    position: Research Fellow, CVSSP, University of Surrey
+    bio: "Yifan worked on TAPESTRY for thirty months at CVSSP and has now moved to a software role in industry.  Within the TAPESTRY project, Yifan worked on temporal pattern analysis using machine learning with multi-modal signals from social network. Prior to that, he received his Ph.D. Degree from Télécom ParisTech (France) in October 2016, supervised by Prof. Isabelle Bloch and Prof. Jamal Atif.  His research interests include but not limited to machine learning, image understanding and knowledge representation and reasoning."
+
