@@ -3,7 +3,7 @@
   - image: jobriggs.jpg
     name: Dr Jo Briggs
     position: Senior Research Fellow in Design, Northumbria University
-    bio: 'Jo leads the trusted design workpackage on TAPESTRY, contributing to both the design of workshops exploring trust and of the visualization and UX aspects of the TAPESTRY platform.  Jo's research explores practice-led design approaches to explore complex and/or emergent digital-socio systems primarily across two interconnecting themes: design for digital engagement; and the design, use and ‘disruptive’ effects of peer-to-peer systems and platforms (e.g. crowdfunding, timebanking). Methodologically she is interested in the theory and practice of design approaches (e.g. Participatory Design, co-design and digital prototyping) and wider creative practices within multidisciplinary and/or cross-sectoral research, including that situated ‘in the wild’. She is a member of the ESRC and AHRC Peer Review Colleges and have reviewed for EPSRC. Shes also reviews for a range of international HCI Design conferences which this year included acting as Associate Chair (Design) for DIS2016 and 2017. She has led two RCUK projects as PI and two as CI and as well as numerous small network and other grants from a range of funders.'
+    bio: "Jo leads the trusted design workpackage on TAPESTRY, contributing to both the design of workshops exploring trust and of the visualization and UX aspects of the TAPESTRY platform.  Jo's research explores practice-led design approaches to explore complex and/or emergent digital-socio systems primarily across two interconnecting themes: design for digital engagement; and the design, use and ‘disruptive' effects of peer-to-peer systems and platforms (e.g. crowdfunding, timebanking). Methodologically she is interested in the theory and practice of design approaches (e.g. Participatory Design, co-design and digital prototyping) and wider creative practices within multidisciplinary and/or cross-sectoral research, including that situated ‘in the wild'. She is a member of the ESRC and AHRC Peer Review Colleges and have reviewed for EPSRC. Shes also reviews for a range of international HCI Design conferences which this year included acting as Associate Chair (Design) for DIS2016 and 2017. She has led two RCUK projects as PI and two as CI and as well as numerous small network and other grants from a range of funders."
 
   - image: johncollomosse.jpg
     name: Prof. John Collomosse  
@@ -29,33 +29,32 @@
   people:
   - image: noname.jpg
     name: Dr Frances Ryan 
-    position: Postdoctoral Research Fellow, University of Dundee
+    position: "Postdoctoral Research Fellow, University of Dundee"
     bio: "Frances joined TAPESTRY in mid-2019 and is exploring psychological factors in trust within the context of the healthcare forum and online dating use-cases of the TAPESTRY project."
     
   - image: noname.jpg
     name: Dr Jie (Shasha) Deng
-    position: Postdoctoral Research Fellow, University of Dundee
+    position: "Postdoctoral Research Fellow, University of Dundee"
     bio: "Shasha contributes quantiative analysis of the social science studies into trust undertaken at Dundee for the TAPESTRY project."
 
   - image: danielcooper.png
     name: Daniel Cooper  
-    position: Research Software Developer, CVSSP, University of Surrey
+    position: "Research Software Developer, CVSSP, University of Surrey"
     bio: 'Daniel is a Research Software Developer at the Surrey Centre for Vision Speech and Signal Processing (CVSSP). Working across the DLT projects, he manages the DLT testbed infrastructure, as well as the design and development of software, integrating AI techpngnologies with DLT. As a full-stack developer he has experience developing and managing applications across varying technology stacks.'
 
 - name: Researcher Alumni
   people:
   - image: arthimanohar.jpg
     name: Dr Arthi Manohar 
-    position: Lecturer, Brunel University
-    bio: "Arthi worked on TAPESTRY for approximately two years as a design research fellow at Northumbria University. She has since moved to a full lectureship at Brunel.  Before joining Northumbria, she worked at the Glasgow School of Art where she explored co-design in community engagement and creative evaluation approaches through research and project-based learning. Prior to GSA, she worked at the Mixed Reality Lab within the University of Nottingham. Her Doctorate was a part of an EPSRC Digital Economy project ‘Tales of Things and Electronic Memories’ (TOTeM). Her research explored the digital impact of technologies on communities using Participatory Research Methods and Story Cultures. She holds a Master’s degree in Architecture and Digital Media from University of Westminster, London. Her research interests are particularly concerned with the role of human values to change the way we engage with communities to help us be more creative, responsive and reflective by investigating the relationship between the social design and technology."
+    position: "Lecturer, Brunel University"
+    bio: "Arthi worked on TAPESTRY for approximately two years as a design research fellow at Northumbria University. She has since moved to a full lectureship at Brunel.  Before joining Northumbria, she worked at the Glasgow School of Art where she explored co-design in community engagement and creative evaluation approaches through research and project-based learning. Prior to GSA, she worked at the Mixed Reality Lab within the University of Nottingham. Her Doctorate was a part of an EPSRC Digital Economy project 'Tales of Things and Electronic Memories' (TOTeM). Her research explored the digital impact of technologies on communities using Participatory Research Methods and Story Cultures. She holds a Master's degree in Architecture and Digital Media from University of Westminster, London. Her research interests are particularly concerned with the role of human values to change the way we engage with communities to help us be more creative, responsive and reflective by investigating the relationship between the social design and technology."
 
   - image: noname.png
     name: Dr Helen Jones
-    position: Lecturer, UCLAN
-    bio: 'Helen worked on TAPESTRY for approximately eighteen months as a postdoctoral research fellow under Moncur at the University of Dundee.  She has since taken up a full lectureship at UCLAN.  Helen's background is in cyberpsychology, and she previously completed her PhD at Lancaster University. This research examined psychological factors influencing susceptibility to email fraud, including cognitive (e.g. inhibition, cognitive reflection) and situational (e.g. email relevance, time pressure) factors that affect this. She has also worked previously at the University of Central Lancashire, researching the role of behavioural and physiological signals in the detection of insider threat. Helen’s research on the TAPESTRY project focuses on understanding how users currently make trust decisions online. This incorporates social psychological perspectives on persuasion, social influence, and social identity to understand how trusting relationships develop between strangers online. This will inform the development of the TAPESTRY tool, providing insight into how trust decisions might be manipulated online and how user-centric security solutions can be designed to encourage more secure connectivity.'
+    position: "Lecturer, UCLAN"
+    bio: "Helen worked on TAPESTRY for approximately eighteen months as a postdoctoral research fellow under Moncur at the University of Dundee.  She has since taken up a full lectureship at UCLAN.  Helen's background is in cyberpsychology, and she previously completed her PhD at Lancaster University. This research examined psychological factors influencing susceptibility to email fraud, including cognitive (e.g. inhibition, cognitive reflection) and situational (e.g. email relevance, time pressure) factors that affect this. She has also worked previously at the University of Central Lancashire, researching the role of behavioural and physiological signals in the detection of insider threat. Helen's research on the TAPESTRY project focuses on understanding how users currently make trust decisions online. This incorporates social psychological perspectives on persuasion, social influence, and social identity to understand how trusting relationships develop between strangers online. This will inform the development of the TAPESTRY tool, providing insight into how trust decisions might be manipulated online and how user-centric security solutions can be designed to encourage more secure connectivity."
     
   - image: yifanyang.jpg
     name: Dr Yifan Yang
-    position: Research Fellow, CVSSP, University of Surrey
+    position: "Research Fellow, CVSSP, University of Surrey"
     bio: "Yifan worked on TAPESTRY for thirty months at CVSSP and has now moved to a software role in industry.  Within the TAPESTRY project, Yifan worked on temporal pattern analysis using machine learning with multi-modal signals from social network. Prior to that, he received his Ph.D. Degree from Télécom ParisTech (France) in October 2016, supervised by Prof. Isabelle Bloch and Prof. Jamal Atif.  His research interests include but not limited to machine learning, image understanding and knowledge representation and reasoning."
-
