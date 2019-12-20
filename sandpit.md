@@ -10,7 +10,7 @@ permalink: /sandpit/
 <h4>
 ** Calling all PhDs and Early Career Researchers (ECRs) **
 </h4>
-
+<p>&nbsp;</p>
 <h4>Who is this for?</h4>
 <p> 
 Are you a PhD/ECR working on topics in Trust, Identity, Privacy and Security (TIPS)? 
@@ -18,13 +18,13 @@ Are you a PhD/ECR working on topics in Trust, Identity, Privacy and Security (TI
 
 <h4>What is TAPESTRY?</h4> 
 <p> 
-TAPESTRY is a socio-technical study of trust in online identities – the psychology of how trust is engendered on and off-line, how we can design for trust, and how emerging technologies such as AI and Blockchain can help create tools that enable us to make better trust decisions online. Further information can be found here (1 min explainer video:  https://youtu.be/PN0xRiJHPzY) or on the project website (www.tapestry.ac.uk).
+TAPESTRY is a socio-technical study of trust in online identities – the psychology of how trust is engendered on and off-line, how we can design for trust, and how emerging technologies such as AI and Blockchain can help create tools that enable us to make better trust decisions online. Further information can be found here (<a href="https://youtu.be/PN0xRiJHPzY">1 minute explainer video</a> or on the project website (<a href="https://www.tapestry.ac.uk">www.tapestry.ac.uk</a>).
 </p>
 
  
 <h4>What’s happening?</h4>
 <p>
-We are running a facilitated sandpit workshop on 3-4 February to explore novel applications of research outcomes from the EPSRC / UKRI Digital Economy funded TAPESTRY project For more information on Sandpits, see https://epsrc.ukri.org/funding/applicationprocess/routes/network/ideas/whatisasandpit/. The sandpit will be highly multi-disciplinary and we welcome applications from all disciplines across Sciences, Arts and Humanities.
+We are running a facilitated sandpit workshop on 3-4 February to explore novel applications of research outcomes from the EPSRC / UKRI Digital Economy funded TAPESTRY project For more information on Sandpits, see these <a href="https://epsrc.ukri.org/funding/applicationprocess/routes/network/ideas/whatisasandpit/">resources from the EPSRC</a> - but note this event is being run by the TAPESTRY team not EPSRC (please apply using our EOI form). The sandpit will be highly multi-disciplinary and we welcome applications from all disciplines across Sciences, Arts and Humanities.
 </p>
 
 <p>
