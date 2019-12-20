@@ -27,10 +27,10 @@
 
 - name: Current Researchers
   people:
-  - image: noname.jpg
+  - image: francesryan.jpg
     name: Dr Frances Ryan 
     position: "Postdoctoral Research Fellow, University of Dundee"
-    bio: "Frances joined TAPESTRY in mid-2019 and is exploring psychological factors in trust within the context of the healthcare forum and online dating use-cases of the TAPESTRY project."
+    bio: "Frances joined TAPESTRY in mid-2019 and is exploring human information behaviours in trust within the context of the healthcare forum and online dating use-cases of the TAPESTRY project. Her wider research focuses around the ways in which people use and share information in online environments, especially as it relates to “lived” or real-world experiences. This includes interests in human information behaviour, social media use, computer-mediated communications, online reputation and identity, and determinations of trust in online environments."
     
   - image: noname.jpg
     name: Dr Jie (Shasha) Deng

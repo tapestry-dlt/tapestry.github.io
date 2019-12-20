@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Tapestry
+title: TAPESTRY
 
 # Short description of your site
-description: Trust, Authentication and Privacy over a De-Centralised Social Registry
+description: TAPESTRY EPSRC Project Pages - Trust, Authentication and Privacy over a De-Centralised Social Registry
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,6 +22,8 @@ description: Trust, Authentication and Privacy over a De-Centralised Social Regi
 navbar-links:
   People: "people"
   News: "news"
+  Publications: "publications"
+#  Sandpit: "sandpit"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -57,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Tapestry
+  name: TAPESTRY
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
