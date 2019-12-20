@@ -1,14 +1,14 @@
 - name: Project Investigators
   people:
-  - image: jobriggs.jpg
-    name: Dr Jo Briggs
-    position: Senior Research Fellow in Design, Northumbria University
-    bio: "Jo leads the trusted design workpackage on TAPESTRY, contributing to both the design of workshops exploring trust and of the visualization and UX aspects of the TAPESTRY platform.  Jo's research explores practice-led design approaches to explore complex and/or emergent digital-socio systems primarily across two interconnecting themes: design for digital engagement; and the design, use and ‘disruptive' effects of peer-to-peer systems and platforms (e.g. crowdfunding, timebanking). Methodologically she is interested in the theory and practice of design approaches (e.g. Participatory Design, co-design and digital prototyping) and wider creative practices within multidisciplinary and/or cross-sectoral research, including that situated ‘in the wild'. She is a member of the ESRC and AHRC Peer Review Colleges and have reviewed for EPSRC. Shes also reviews for a range of international HCI Design conferences which this year included acting as Associate Chair (Design) for DIS2016 and 2017. She has led two RCUK projects as PI and two as CI and as well as numerous small network and other grants from a range of funders."
-
   - image: johncollomosse.jpg
     name: Prof. John Collomosse  
     position: Professor, CVSSP University of Surrey. (PI)
     bio: 'John is the principal investigator on TAPESTRY and leads the machine learning and distributed ledger technology workpackage of the project.  At Surrey, John is responsible for <a href="http://blockchain.surrey.ac.uk">Surrey Blockchain testbed</a>, comprising over 4 million in UKRI funded research projects exploring the fusion of AI and Distributed Ledger Technology including <a href="https://blockchain.surrey.ac.uk/projects/tapestry.html">TAPESTRY</a>, <a href="https://blockchain.surrey.ac.uk/projects/archangel.html">ARCHANGEL</a>, <a href="https://blockchain.surrey.ac.uk/projects/comehere.html">CoMEHeRe</a> and the European funded <a href="https://www.surrey.ac.uk/news/university-surrey-kicks-eu5million-europe-wide-testbed-blockchain">Blockstart</a> project.'
+
+  - image: jobriggs.jpg
+    name: Dr Jo Briggs
+    position: Senior Research Fellow in Design, Northumbria University
+    bio: "Jo leads the trusted design workpackage on TAPESTRY, contributing to both the design of workshops exploring trust and of the visualization and UX aspects of the TAPESTRY platform.  Jo's research explores practice-led design approaches to explore complex and/or emergent digital-socio systems primarily across two interconnecting themes: design for digital engagement; and the design, use and ‘disruptive' effects of peer-to-peer systems and platforms (e.g. crowdfunding, timebanking). Methodologically she is interested in the theory and practice of design approaches (e.g. Participatory Design, co-design and digital prototyping) and wider creative practices within multidisciplinary and/or cross-sectoral research, including that situated ‘in the wild'. She is a member of the ESRC and AHRC Peer Review Colleges and have reviewed for EPSRC. Shes also reviews for a range of international HCI Design conferences which this year included acting as Associate Chair (Design) for DIS2016 and 2017. She has led two RCUK projects as PI and two as CI and as well as numerous small network and other grants from a range of funders."
 
   - image: markmanulis.jpg
     name: Dr Mark Manulis
