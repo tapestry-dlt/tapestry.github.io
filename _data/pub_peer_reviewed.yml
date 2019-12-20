@@ -1,10 +1,26 @@
 - title: "TAPESTRY: A Blockchain based Service forTrusted Interaction Online"
-  publication: "arXiv 1905.06186"
+  publication: "Pre-print arXiv 1905.06186"
   authors: "Y. Yang, D. Cooper, J. Collomosse, C. Dragan, M. Manulis, J. Steane, A. Manohar, J. Briggs, H. Jones, W. Moncur"
   url: "https://arxiv.org/pdf/1905.06186"
 
 - title: "TAPESTRY: Visualizing Interwoven Identities for Trust Provenance"
-  publication: "Proceedings IEEE Symposium on Visualization for Cybersecurity (IEEE VizSec)"
+  publication: "Proc. IEEE Symposium on Visualization for Cybersecurity VizSec) 2018"
   authors: "Y. Yang, J. Collomosse, A. Manohar, J. Briggs, J. Steane"
   url: "http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/Yang-VIZSEC-2018.pdf"
+
+- title: "Making Sense of Blockchain Applications: A typology for HCI"
+  publication: "Proc. ACM CHI Conference on Human Factors in Computing Systems 2018"
+  authors: "C. Elsden, A. Manohar, J. Briggs, M. Harding, C. Speed, J. Vines"
+  url: "http://nrl.northumbria.ac.uk/33897/1/Elsden%20et%20al%20-%20Making%20sense%20of%20blockchain%20applications.pdf"
+
+- title: "Bootstrapping Online Trust: Timeline Activity Proofs"
+  publication: "Proc. ESORICS Intl. Workshops. Data Privacy Management, Cryptocurrencies and Blockchain Technology 2018"
+  authors: "C. Dragan, M. Manulis"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-00305-0_18"
+
+- title: "The Role of Psychology in Understanding Online Trust" 
+  publication: "Psychological and Behavioral Examinations in Cyber Security. Book Chapter Ch. 7, pp.109-132"
+  authors: "H. Jones, W. Moncur"
+  url: "https://core.ac.uk/download/pdf/151241306.pdf"
+
 
