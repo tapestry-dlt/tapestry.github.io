@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sandpit
+title: TAPESTRY Sandpit
 permalink: /sandpit/
 ---
 
